@@ -1,4 +1,4 @@
-# PPO-Cartpole
+## PPO-Cartpole
 My reinforcement learning practice project: PPO for Cartpole-v1 environment. This project utilizes the proximal policy optimization (PPO) algorithm for training and testing in the CartPole-v1 environment, one of the classic introductory experiments in reinforcement learning. The goal is to make a cart keep a vertical pole upright by moving left and right. 
 
 
